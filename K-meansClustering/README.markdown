@@ -1,30 +1,25 @@
 ## K-Means Clustering
 
-[ Introduction ]
+Simple algorithm in R for K-Means Clustering based on [Numerical example of
+K-means clustering](http://people.revoledu.com/kardi/tutorial/kMean/NumericalExample.htm).
+and [Statistical Clustering K-means](http://mnemstudio.org/clustering-k-means-example-1.htm).
 
-- Description of the files and how they relate to tutorial ( which allows people
-  to investigate the implementation of the Algorithm ) and the book.
+## Notes
 
-  # Based on: http://people.revoledu.com/kardi/tutorial/kMean/NumericalExample.htm
-  #
+[K-means clustering](http://www.onmyphd.com/?p=k-means.clustering&ckattempt=1) - good description of the algorithm.
 
-  http://mnemstudio.org/clustering-k-means-example-1.htm
+[K-means clustering](http://www.saedsayad.com/clustering_kmeans.htm) - clear description
+of the objective function.
 
-  # Papers: http://www.labri.fr/perso/bpinaud/userfiles/downloads/hartigan_1979_kmeans.pdf
-  # Description of Algorithim: http://www.onmyphd.com/?p=k-means.clustering&ckattempt=1
-  #
+[K-means Clustering Algorithm](https://saravananthirumuruganathan.wordpress.com/2010/01/27/k-means-clustering-algorithm/
+) - in depth blog that covers many aspects of the algorithm.
 
-http://www.onmyphd.com/?p=k-means.clustering&ckattempt=1
+[K-Means Clustering: Example and Algorithm](http://www.dataonfocus.com/k-means-clustering-example-and-algorithm/) - detailed description of the algorithm including a mathematical description and
+advantages and disadvantages of its use.
 
-[ Basic Algorithm ]
+## Mathematics
 
-- Simple description of the Algorithm
-
-[ Mathematical Background ]
-
-- Key papers in the development of the Algorithm
-
-[ Thanks ]
+[A K-Means Cluster Algorithm](http://www.labri.fr/perso/bpinaud/userfiles/downloads/hartigan_1979_kmeans.pdf) by J. A. Hartigan and M. A. Wong - earliest paper on K-Means clustering.
 
 ## Software
 
